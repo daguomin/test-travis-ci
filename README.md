@@ -1,4 +1,4 @@
-# test_travis-ci_coveralls 
+# test_travis-ci
 
 [![Build Status](https://travis-ci.org/daguomin/test-travis-ci.svg?branch=master)](https://travis-ci.org/daguomin/test-travis-ci)  [![Coverage Status](https://coveralls.io/repos/daguomin/test-travis-ci/badge.svg)](https://coveralls.io/r/daguomin/test-travis-ci)
 
